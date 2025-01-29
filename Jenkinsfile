@@ -6,7 +6,7 @@ pipeline {
         IMAGE_NAME = 'myapp1234:latest'
         CONTAINER_NAME = 'promo5'
         PORT_NO = '8015' // Define the port number variable
-        REPO_URL = '' // Replace with your repo URL
+        REPO_URL = 'https://github.com/saini1233/Docker-project.git' // Replace with your repo URL
         BRANCH_NAME = 'main' // Specify the branch name here
     }
     
